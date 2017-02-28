@@ -17,7 +17,7 @@ which returns something like
 
 
 ## So you only do two things?
-At the moment, I'm going to try and add more to it as I get time, things like chromecast control, Alexa integration so I can shout at my compouter and make things happen, a dream of programmers since time immemorial. Profanity might even skip error handling to make things faster, who knows?
+At the moment, I'm going to try and add more to it as I get time, things like chromecast control, Alexa integration so I can shout at my computer and make things happen, a dream of programmers since time immemorial. Profanity might even skip error handling to make things faster, who knows?
 
 ## How do I install it? 
 You're going to need Python 3.6 installed, clone this repo and then start a virtualenv with `--python=python3.6` as an argument then activate the virtual environment and `pip install -r requirements.txt` Yes, it's a bit clunky at the moment. 
