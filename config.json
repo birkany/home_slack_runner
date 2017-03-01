@@ -1,0 +1,10 @@
+{
+  "Nest": "True",
+  "Hue": "True",
+  "trigger": "word used to trigger the bot"
+  "slack_token": "token to access slack",
+  "hue_bridge":"ip address of bridge",
+  "nest_id": "nest client id",
+  "nest_secret": "nest secret",
+  "authorised_user": "Slack ID of user allowed to change settings"
+}
